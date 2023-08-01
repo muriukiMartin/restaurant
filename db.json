@@ -1,7 +1,7 @@
 {"restaurants":[
         {
             "id": 1,
-            "name": "",
+            "name": "Kibanda",
             "contact":"",
              "food":[
        {
@@ -22,7 +22,7 @@
         },
         {
             "id": 2,
-            "name": "",
+            "name": "Siwaka",
             "contact":"",
              "food":[
        {
