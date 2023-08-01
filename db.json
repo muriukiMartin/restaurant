@@ -3,41 +3,42 @@
         {
             "id": 1,
             "name": "Kibanda",
-            "contact": "0734563765",
-            "food": [
-                {
-                    "id": 1,
-                    "food": "Ugali Matumbo",
-                    "price": 456,
-                    "restaurant_id": 1
-                },
-                {
-                    "id": 2,
-                    "food": "Rice Beef",
-                    "price": 500,
-                    "restaurant_id": 1
-                }
-            ]
+            "contact": "0734563765"
+            
         },
         {
             "id": 2,
             "name": "Siwaka",
-            "contact": "0768546321",
-            "food": [
-                {
-                    "id": 1,
-                    "food": "Pilau",
-                    "price": 300,
-                    "restaurant_id": 2
-                },
-                {
-                    "id": 2,
-                    "food": " Chapati Beans",
-                    "price": 250,
-                    "restaurant_id": 2
-                }
-            ]
+            "contact": "0768546321"
         }
     ],
+
+    "food": [
+        {
+            "id": 1,
+            "food": "Ugali Matumbo",
+            "price": 456,
+            "restaurant_id": 1
+        },
+        {
+            "id": 2,
+            "food": "Rice Beef",
+            "price": 500,
+            "restaurant_id": 1
+        },
+        {
+            "id": 1,
+            "food": "Pilau",
+            "price": 300,
+            "restaurant_id": 2
+        },
+        {
+            "id": 2,
+            "food": " Chapati Beans",
+            "price": 250,
+            "restaurant_id": 2
+        }
+    ],
+    
     "orders": []
 }
