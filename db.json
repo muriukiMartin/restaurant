@@ -26,14 +26,14 @@
             "food": [
                 {
                     "id": 1,
-                    "food": "Ugali Matumbo",
-                    "price": 456,
+                    "food": "Pilau",
+                    "price": 300,
                     "restaurant_id": 2
                 },
                 {
                     "id": 2,
-                    "food": "Rice Beef",
-                    "price": 500,
+                    "food": " Chapati Beans",
+                    "price": 250,
                     "restaurant_id": 2
                 }
             ]
