@@ -1,8 +1,9 @@
-{"restaurants":[
+{
+    "restaurants":[
         {
             "id": 1,
             "name": "Kibanda",
-            "contact":"",
+            "contact":"0734563765",
              "food":[
        {
             "id": 1,
@@ -23,7 +24,7 @@
         {
             "id": 2,
             "name": "Siwaka",
-            "contact":"",
+            "contact":"0768546321",
              "food":[
        {
             "id": 1,
