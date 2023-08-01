@@ -15,7 +15,7 @@
                     "id": 2,
                     "food": "Rice Beef",
                     "price": 500,
-                    "restaurant_id": 3
+                    "restaurant_id": 1
                 }
             ]
         },
@@ -28,13 +28,13 @@
                     "id": 1,
                     "food": "Ugali Matumbo",
                     "price": 456,
-                    "restaurant_id": 1
+                    "restaurant_id": 2
                 },
                 {
                     "id": 2,
                     "food": "Rice Beef",
                     "price": 500,
-                    "restaurant_id": 3
+                    "restaurant_id": 2
                 }
             ]
         }
